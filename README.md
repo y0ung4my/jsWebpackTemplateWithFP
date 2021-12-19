@@ -36,7 +36,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 ## Contact Me
 
 _Let me know if you run into any issues or have questions, ideas or concerns:_
-_dolanp1992@gmail.com_
+_[Author Email Here]_
 
 ## License
 
