@@ -13,6 +13,7 @@
 * _HTML_
 * _CSS & Bootstrap_
 * _Javascript & jQuery_
+* _NPM & Webpack_
 
 ## Description
 
